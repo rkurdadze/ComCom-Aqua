@@ -1,0 +1,734 @@
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\obj\Debug\Aqua.MainWindow.resources
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\obj\Debug\Aqua.Properties.Resources.resources
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\DrawFont.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Logo_Sheet.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\0a.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\0b.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\1a.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\1b.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\2a.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\2b.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\3a.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\3b.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\4a.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Maps\4b.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\Player_Sheet.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Content\SmileyMap.xnb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Aqua.exe.config
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Aqua.exe
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\Aqua.pdb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\MonoGame.Forms.DX.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\MonoGame.Framework.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.XInput.dll
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\MonoGame.Forms.DX.pdb
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\MonoGame.Forms.DX.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\MonoGame.Framework.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\bin\Debug\SharpDX.XInput.xml
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\obj\Debug\Aqua.csproj.CopyComplete
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\obj\Debug\Aqua.exe
+C:\Users\Romiko\Desktop\MonoGame.Forms-master\MonoGame.Forms.Tests.DX\obj\Debug\Aqua.pdb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\0a.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\0b.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\1a.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\1b.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\2a.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\2b.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\3a.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\3b.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\4a.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Maps\4b.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\3D\MonoGame.Forms-master\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\3D\MonoGame.Forms-master - 1 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_0 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_0 - Canvas - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_1 - 3d cam - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_2\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_2 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_3 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_4 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_5 - Copy (2)\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_6 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_7 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_8 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_0_9 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1_1 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1_2 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\obj\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_1_3 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\Content\DrawFont.xnb
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\Content\Logo_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\Content\Player_Sheet.xnb
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\Content\SmileyMap.xnb
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\Aqua.exe.config
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\Aqua.pdb
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\MonoGame.Framework.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.DXGI.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.XInput.dll
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.pdb
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\MonoGame.Forms.DX.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\MonoGame.Framework.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.DXGI.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.Direct3D11.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.MediaFoundation.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.XAudio2.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.Direct2D1.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\bin\Debug\SharpDX.XInput.xml
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\obj\Debug\Aqua.csprojAssemblyReference.cache
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\obj\Debug\Aqua.MainWindow.resources
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\obj\Debug\Aqua.csproj.CopyComplete
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\obj\Debug\Aqua.exe
+C:\!_C#\MyGame\Aqua_2_1_4 - Copy\Aqua\obj\Debug\Aqua.pdb

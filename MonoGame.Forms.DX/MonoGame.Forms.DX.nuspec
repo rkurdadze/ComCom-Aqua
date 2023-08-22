@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MonoGame.Forms.DX</id>
+    <version>$version$</version>
+    <title>MonoGame.Forms.DX</title>
+    <authors>Marcel 'sqrMin1' Härtel</authors>
+    <owners>Marcel Härtel</owners>
+    <licenseUrl>https://github.com/sqrMin1/MonoGame.Forms/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/sqrMin1/MonoGame.Forms</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/sqrMin1/MonoGame.Forms/master/Logos/LogoSquare_256.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MonoGame.Forms is the easiest way of integrating a MonoGame render window into your Windows Forms project. It should make your life much easier, when you want to create your own editor environment.</description>
+    <copyright>Copyright (c) 2018 Marcel 'sqrMin1' Härtel</copyright>
+    <tags>MonoGame WindowsForms</tags>
+	<references>
+		<group targetFramework="net451">
+		<reference file="MonoGame.Forms.DX.dll" />
+        <reference file="MonoGame.Framework.dll" />
+		<reference file="SharpDX.dll" />
+		<reference file="SharpDX.DXGI.dll" />
+		<reference file="SharpDX.Direct3D11.dll" />
+		</group>
+	</references>
+  </metadata>
+  <files>
+    <file src="..\Libs\MonoGame\WindowsDX\**\*.*" target="lib\net451" />
+</files>
+</package>
